@@ -355,7 +355,7 @@ export default function Home() {
               />
               <div className="project-info">
                 <span className="project-tag">#NODEJS #FIREBASE #ERP</span>
-                <h3 className="project-title">��ركة البرمجة - Programming Company</h3>
+                <h3 className="project-title">شركة البرمجة - Programming Company</h3>
                 <p style={{ fontSize: "0.8rem", color: "var(--text-secondary)", marginBottom: "15px" }}>
                   Design and develop professional websites, stores, applications, and ERP systems. Integrated solutions for business transformation.
                 </p>
