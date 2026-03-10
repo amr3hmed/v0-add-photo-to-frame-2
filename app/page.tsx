@@ -99,7 +99,7 @@ export default function Home() {
             <p style={{ color: "var(--accent-retro)", fontSize: "0.85rem", fontWeight: "700", marginBottom: "10px" }}>
               [ JUNIOR BACKEND DEVELOPER ]
             </p>
-            <h1>BUILDING <span>APIS &</span> SYSTEMS</h1>
+            <h1 style={{ color: "#ff0000" }}>BUILDING <span>APIS &</span> SYSTEMS</h1>
             <p>
               Backend Developer specialized in backend development, database architecture, and system design. Experienced in building scalable and maintainable backend systems using .NET, Node.js, and SQL Server. Skilled in developing RESTful APIs, optimizing performance, and applying clean architecture principles to deliver reliable and efficient cloud-ready applications.
             </p>
